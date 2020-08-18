@@ -1,0 +1,16 @@
+# To generate this file: brew bundle dump
+# To use this file: brew bundle install
+
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "bat"
+brew "exa"
+brew "fd"
+brew "fzf"
+brew "htop"
+brew "httpie"
+brew "jq"
+brew "lnav"
+brew "the_silver_searcher"
+brew "tig"
+brew "z"
